@@ -1,0 +1,21 @@
+{
+  "countries": [
+    {
+      "namer": "korea",
+      "id": 1
+    },
+    {
+      "namer": "saudi",
+      "id": 2
+    },
+    {
+      "namer": "ameriac",
+      "id": 3
+    },
+    {
+      "namer": "losangeles",
+      "id": 4
+    }
+  ],
+  "cities": []
+}
