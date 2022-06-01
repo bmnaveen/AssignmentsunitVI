@@ -15,6 +15,10 @@
     {
       "namer": "losangeles",
       "id": 4
+    },
+    {
+      "namer": "africa",
+      "id": 5
     }
   ],
   "cities": []
